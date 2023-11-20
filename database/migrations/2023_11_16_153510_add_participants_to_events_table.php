@@ -18,6 +18,7 @@ class AddParticipantsToEventsTable extends Migration
         });
     }
 
+    
     /**
      * Reverse the migrations.
      *
